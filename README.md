@@ -27,31 +27,31 @@ Computer Science student at Cairo University passionate about building scalable 
 **Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts&theme=dark&size=42"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts&theme=dark&size=32"/>
 </p>
 
 **Frontend**
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular&theme=dark&size=42"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular&theme=dark&size=32"/>
 </p>
 
 **Backend**
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,django&theme=dark&size=42"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,django&theme=dark&size=32"/>
 </p>
 
 **Databases**
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark&size=42"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark&size=32"/>
 </p>
 
 **Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman,vscode,idea&theme=dark&size=42"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman,vscode,idea&theme=dark&size=32"/>
 </p>
 
 ---

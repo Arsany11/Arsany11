@@ -1,14 +1,18 @@
-# Hi 👋 I'm Arsany Nageh
+<h1 align="center">Hi 👋, I'm Arsany Nageh</h1>
 
-### Software Engineer | Full-Stack Developer | Competitive Programmer
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Competitive+Programmer;AI-Assisted+Software+Testing" />
+</p>
 
-I'm a Computer Science student at Cairo University passionate about building scalable web applications, designing clean backend systems, and solving algorithmic problems.
-
-My interests include backend engineering, software architecture, AI-assisted software testing, and modern web development.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arsany11&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
+
+Computer Science student at Cairo University passionate about building scalable web applications, backend systems, and AI-powered software engineering tools.
 
 * 🎓 Computer Science student at Cairo University
 * 🏆 ECPC Finalist (2024 & 2025)
@@ -18,70 +22,64 @@ My interests include backend engineering, software architecture, AI-assisted sof
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-### Languages
+**Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts&theme=dark&size=42"/>
+</p>
 
----
+**Frontend**
 
-### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,nextjs&theme=dark&size=42"/>
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap)
+**Backend**
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,django&theme=dark&size=42"/>
+</p>
 
-### Backend
+**Databases**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark&size=42"/>
+</p>
 
----
+**Tools**
 
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman,vscode,idea&theme=dark&size=42"/>
+</p>
 
 ---
 
-### Tools
+## 🚀 Currently Working On
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven)
+### 🤖 Test Nexus (Graduation Project)
+An AI-powered framework for generating, refining, and evaluating JUnit tests for diffrent Java Versions using Large Language Models, coverage analysis, and automated feedback.
+
+**Tech:** `Python` `Java` `JUnit` `Docker` `Ollama` `LLMs`
+
+🔗 Repository: [https://github.com/Arsany11/Test_Nexus](https://github.com/Yousef-karem/Unit-test-demo)
+
+### 🏟️ Sports E-Commerce Platform
+A full-stack sports marketplace built with Spring Boot and Angular featuring authentication, product management, shopping cart, and secure REST APIs.
+
+**Tech:** `Spring Boot` `Angular` `MySQL` `JWT`
+
+🔗 Repository: [https://github.com/Arsany11/SportsCenterApp](https://github.com/Arsany11/SportsCenterApp)
 
 ---
 
-# 📌 Featured Projects
-
-### 🤖 AI-Assisted Unit Test Generation
-
-Graduation project focused on generating, refining, and evaluating JUnit tests using Large Language Models.
-🔗 Repository: [https://github.com/Arsany11/your-repo](https://github.com/Yousef-karem/Unit-test-demo)
-
-### 🛒 E-Commerce Platform
-
-Spring Boot + Angular application implementing authentication, REST APIs, shopping cart, product management, and role-based authorization.
-🔗 Repository: [https://github.com/Arsany11/ecommerce](https://github.com/Arsany11/SportsCenterApp)
+## 📌 Featured Projects
 
 ### 🎓 Learning Management System
 
 Backend system built with Spring Boot and PostgreSQL featuring JWT authentication, role-based access control, and RESTful APIs.
+
 🔗 Repository: [https://github.com/Arsany11/lms-backend](https://github.com/Arsany11/E-commerce-system)
 
 ### ✅ Todo Application
@@ -92,20 +90,14 @@ Developed a task management application twice:
 
 **Tech Stack:** `React` `JavaScript` `HTML` `CSS`
 
-🔗 Repository: [https://github.com/Arsany11/<js-todo-repo>](https://github.com/Arsany11/ToDo)
+🔗 Repository: [https://github.com/Arsany11/ToDo](https://github.com/Arsany11/ToDo)
+
 
 ### 📚 Online Library
 
 Full-stack web application built with Django supporting searching, filtering, and reading list management.
+
 🔗 Repository: [https://github.com/Arsany11/online-library](https://github.com/Arsany11/Online-Library-website)
-
-### 🛒 E-Commerce Platform
-
-Spring Boot + Angular full-stack e-commerce application featuring JWT authentication, product management, shopping cart, and REST APIs.
-
-**Tech:** `Spring Boot` `Angular` `MySQL` `JWT`
-
-🔗 **Repository:** https://github.com/Arsany11/ecommerce
 
 ---
 
@@ -121,5 +113,18 @@ Spring Boot + Angular full-stack e-commerce application featuring JWT authentica
 
 ## 📫 Connect with Me
 
-* LinkedIn: [https://www.linkedin.com/in/arsany-nageh-970834288/?locale=ar](mailto:arsanynageh129@gmail.com)
-* Email: [arsanynageh129@gmail.com](mailto:arsanynageh129@gmail.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/arsany-nageh-970834288" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:arsanynageh129@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsany11&layout=compact&theme=github_dark&hide_border=true" />
+</p>

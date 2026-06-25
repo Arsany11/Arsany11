@@ -33,13 +33,13 @@ Computer Science student at Cairo University passionate about building scalable 
 **Frontend**
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular,nextjs&theme=dark&size=42"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular&theme=dark&size=42"/>
 </p>
 
 **Backend**
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,django&theme=dark&size=42"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,django&theme=dark&size=42"/>
 </p>
 
 **Databases**
